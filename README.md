@@ -1,4 +1,4 @@
-# Object Following Robot
+# Object Follower Robot
 
 An Arduino-based autonomous robot that **follows an object** in front of it using two IR sensors. The robot detects the presence and position of a nearby object and steers itself to track it in real time.
 
